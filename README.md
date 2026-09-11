@@ -1,10 +1,8 @@
-﻿# Horizon
+# Horizon
 
-Horizon â€” Track Your Future
+<img src="./assets/header.svg" width="100%" alt="Horizon" />
 
-## Stack
-
-react Â· vite Â· typescript Â· tailwindcss Â· supabase
+Track goals and future plans.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· tailwindcss Â· supabase
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
