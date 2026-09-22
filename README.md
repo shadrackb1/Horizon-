@@ -1,8 +1,12 @@
 # Horizon
 
-<img src="./assets/header.svg" width="100%" alt="Horizon" />
+Goals and future tracking app prototype.
 
-Track goals and future plans.
+**Status:** prototype
+
+## Stack
+
+React, TypeScript, Vite, Tailwind
 
 ## Run locally
 
